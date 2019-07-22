@@ -1,0 +1,16 @@
+PODS:
+  - SpringIndicator (5.0.0)
+
+DEPENDENCIES:
+  - SpringIndicator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SpringIndicator
+
+SPEC CHECKSUMS:
+  SpringIndicator: 111bf862e1415e5ac7b3a43c0cd09633d5715fd6
+
+PODFILE CHECKSUM: af4b7d1ab82b7285d7e9188ab140eb2ff1840696
+
+COCOAPODS: 1.5.3
